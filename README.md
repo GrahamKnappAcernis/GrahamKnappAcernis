@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @GrahamKnappAcernis, also known as [@dancergraham]
+- 👋 Hi, I’m @GrahamKnappAcernis, also known as [@dancergraham](@dancergraham)
 - 👀 I’m interested in Python🐍, engineering⚙, the built environment 🏙
